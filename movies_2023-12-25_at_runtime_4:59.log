@@ -1,0 +1,7 @@
+2023-12-25 04:59:01,657 - INITIALIZING Movies script
+2023-12-25 04:59:04,719 - == Spark session started ==
+2023-12-25 04:59:10,662 - Transforming reviewTime to format MM-dd-yyyy and isUnix is False
+2023-12-25 04:59:10,737 - Transforming unixReviewTime to format MM-dd-yyyy and isUnix is True
+2023-12-25 04:59:10,929 - Executing data computation: 2023-12-25 04:59:10.929711
+2023-12-25 04:59:17,284 - Computation end time: 2023-12-25 04:59:17.284157
+2023-12-25 04:59:37,602 - == Spark session stopped ==

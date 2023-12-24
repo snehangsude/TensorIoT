@@ -1,0 +1,11 @@
+2023-12-25 05:00:40,627 - INITIALIZING Assingment_2_script
+2023-12-25 05:00:43,355 - == Spark session started ==
+2023-12-25 05:00:54,726 - Transforming reviewTime to format MM-dd-yyyy and isUnix is False
+2023-12-25 05:00:54,792 - Transforming unixReviewTime to format MM-dd-yyyy and isUnix is True
+2023-12-25 05:00:54,964 - Executing data computation: 2023-12-25 05:00:54.964738
+2023-12-25 05:01:20,649 - Computation end time: 2023-12-25 05:01:20.649508
+2023-12-25 05:01:21,841 - Inserting data into Postgre: 2023-12-25 05:01:21.841552
+2023-12-25 05:03:07,863 - Insertion complete: 2023-12-25 05:03:07.863188
+2023-12-25 05:03:08,013 - Writing to parquet: 2023-12-25 05:03:08.013506
+2023-12-25 05:05:45,839 - Writing complete: 2023-12-25 05:05:45.839069
+2023-12-25 05:05:45,845 - == Spark session stopped ==
