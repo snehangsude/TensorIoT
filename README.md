@@ -1,7 +1,8 @@
 # Assignment 
 
-For detailed code explanations, breakdown, download instructions are listed in the respective `.ipynb` file. 
-<br>The **ReadMe** file consists of how to set up your environment for a successful run. 
+## For detailed code explanations, Classes, Spark Session initialization instructions are added as Markdown text inside in the respective `.ipynb` files. 
+
+<br>The **ReadMe** file consists of how to set up your environment for a successful run. For coding breakdown, open the Assignments.
 
 <br>Here's a list of things that each assignment holds:
 > Note: This is tested only on a Linux environment.
