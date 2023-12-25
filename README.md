@@ -34,10 +34,18 @@ Open a terminal and enter the commands below:
 
 > *Assignment_1.ipynb* doesn't require docker to be installed. Only *Assignment_2.ipynb* requires Docker.
 
+### Setup the directories
+
+The data directory is not uploaded which is under the name `raw_lake`. <br>
+It contains all the data file. The input file with the `*.json` format and the output file format with `*.parquet`<br>
+
+> **Instructions on how to download and store can be found inside the Assignment notebook.**
+
 #### Docker installed:
 ```
 git clone "https://github.com/snehangsude/TensorIoT.git"
 cd TensorIoT
+mkdir raw_lake
 python3 -m venv .iot
 source .iot/bin/activate
 pip install -r requirements.txt
@@ -48,6 +56,7 @@ sudo snap install docker
 
 git clone "https://github.com/snehangsude/TensorIoT.git"
 cd TensorIoT
+mkdir raw_lake
 python3 -m venv .iot
 source .iot/bin/activate
 pip install -r requirements.txt
