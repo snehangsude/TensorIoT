@@ -1,6 +1,8 @@
 # Assignment 
 
-Both assignment are complete with instructions, code explanations, dependencies in the `.ipynb` file. 
+For detailed code explanations, breakdown, download instructions are listed in the respective `.ipynb` file. 
+<br>The **ReadMe** file consists of how to set up your environment for a successful run. 
+
 <br>Here's a list of things that each assignment holds:
 > Note: This is tested only on a Linux environment.
 
