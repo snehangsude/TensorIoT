@@ -31,7 +31,6 @@
 `/bin` consits of a `.jar` file that allows us to connect to any external DB with the pyspark module using `jdbc`. 
 
 # To run an assignment: 
-Open a terminal and enter the commands below:
 
 > *Assignment_1.ipynb* doesn't require docker to be installed. Only *Assignment_2.ipynb* requires Docker.
 
@@ -41,6 +40,8 @@ The data directory is not uploaded which is under the name `raw_lake`. <br>
 It contains all the data file. The input file with the `*.json` format and the output file format with `*.parquet`<br>
 
 > **Instructions on how to download and store can be found inside the Assignment notebook.**
+
+Open a terminal and enter the commands below:
 
 #### Docker installed:
 ```
